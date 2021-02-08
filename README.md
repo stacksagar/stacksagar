@@ -7,3 +7,5 @@
 </style>
 <h1 style="color:yellow" class="first">Hello World</h1>
 <small>Hello World</small>
+
+<a href="https://google.com"> image <img src="https://robohash.org/1" /> </a>
