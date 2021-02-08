@@ -9,3 +9,4 @@
 <small>Hello World</small>
 
 <a style="color:green" href="google.com"> <img src="https://robohash.org/1" style="background:black" /> click</a>
+<b>bold</b>
