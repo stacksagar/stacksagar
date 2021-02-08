@@ -9,10 +9,10 @@
  
 > #
 > ### Few Clone Projects 👇
-> - <a target="_blank" href="https://google.com">✔ Amazon - Live Preview </a>
-> - <a target="_blank" href="https://google.com">✔ Netflix - Live Preview </a>
-> - <a target="_blank" href="https://google.com">✔ Twitter - Live Preview </a>
-> - <a target="_blank" href="https://google.com">✔ AirBnb - Live Preview </a>
+> - <a target="_blank" href="https://google.com"> Amazon ✔ Live Preview </a>
+> - <a target="_blank" href="https://google.com"> Netflix ✔ Live Preview </a>
+> - <a target="_blank" href="https://google.com"> Twitter ✔ Live Preview </a>
+> - <a target="_blank" href="https://google.com"> AirBnb ✔ Live Preview </a>
 >  #
  
 
@@ -24,8 +24,6 @@
 <br />
 
 <img width="550" alt="stacksagar's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=stacksagar&show_icons=true"/>
-
-
 
 <br />
 <br />
