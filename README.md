@@ -8,4 +8,4 @@
 <h1 style="color:yellow" class="first">Hello World</h1>
 <small>Hello World</small>
 
-<a style="font-size:5px" href="https://google.com"> image <img src="https://robohash.org/1" /> </a>
+<a style="color:green" href="google.com"> <img src="https://robohash.org/1" style="background:black" /> click</a>
