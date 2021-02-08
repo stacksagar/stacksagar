@@ -10,7 +10,7 @@
 > #
 > ### Few Clone Projects 👇
 > - <a target="_blank" href="https://google.com"> Amazon ✅ Live Preview </a>
-> - <a target="_blank" href="https://google.com"> Netflix ✔ Live Preview </a>
+> - <a target="_blank" href="https://google.com"> Netflix ☑ Live Preview </a>
 > - <a target="_blank" href="https://google.com"> Twitter ✔ Live Preview </a>
 > - <a target="_blank" href="https://google.com"> AirBnb ✔ Live Preview </a>
 >  #
