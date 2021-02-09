@@ -1,4 +1,4 @@
-#### <img src="https://lh3.googleusercontent.com/5lUo0ZDfQiLrUlXISfXN5jYscTYm4IoD8zdiv_HNvtJwRYIZjdkQJd_uTvwfqsRItqy9P00XRmgb-WwlxLaulbebSBleXb-CkK4mbrThn5w_d2hYQeuR4BQbN-LUIB-Dq7Y4pQt_pF2yjfI66TR-WUsA2nopvDuHfAhnRMvtGCQCGeTrs-JLIVGVKJ8I5Vik8bWyHs2-ttvatwuLRkq9GaFRejM7fZY7wQ5F8rCpP3fRsHodPASshWwvetljfcAFKExmk_M7LH1Qxo1_gwDEcndCBjj0Hpt7oy9s51FXC_3De13nptHO-HgKQP6YIk73mLybJAs4Zn9Y263jWiDNdqZ_y_BXcmchL8TnV4beF0hVc-1U6tbmHS5ycixklbOam8vqUtiFQB_1GXmWrvme-c2vqFaX_-4ha2jLvIVqH9ITIeomFQnb3x9mrYKI6hTG-hd4qOa0fyS4rdJ7rvJ5iYnkKyEU8sRrEdKUpRXDrLca7tZk3TbQQVcHpKdmCP4NNXv2Vb5vuwBlFdsugR9tNFO-jCAOo2CAelPah02gYE3YAcTT13kauC6ommEFoTOHwmsCSUyY3mBkIzO3QRWjX-fBRw0eUnsLcFObTr0kMX56Yx09-S9Wq8hRw6-0mWI6QUuxOTOOOPBc2lr_Eodz6oFcgmMZGFo0elpTG-uC6LeTQ9TF2klYLKYNUyQ=s272-no?authuser=1" width="15" /> Hi I'm Sagar Roy 👋
+#### <img src="https://cdn3.bbcode0.com/uploads/2021/2/9/cc575c06d6aeab1d8d697cdcf98b89df-full.png" width="15" /> Hi I'm Sagar Roy 👋
 
 #### ` Professionally Full Stack Web Developer & highly skilled in Front-End Development. `  
 
