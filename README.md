@@ -12,7 +12,7 @@
 > - <a href="https://stacksagar.github.io/eCommerce-shopping-cart"> Shoping Cart eCommerce Functionality ✔ Live Preview </a>
 > ### Few Clone Projects 👇
 > - <a href="https://stacksagar.github.io/windows10-calculator-clone"> Windows 10 Calculator **Clone** ✔ Live Preview </a>
-> - <a href="#"> Amazon **Clone** ✔ Live Preview </a>
+> - <a href="https://sagar-clone-1.web.app"> Amazon **Clone** ✔ Live Preview </a>
 > - <a href="#"> Netflix **Clone** ✔ Live Preview </a>
 > - <a href="#"> Twitter **Clone** ✔ Live Preview </a>
 > - <a href="#"> AirBnb **Clone** ✔ Live Preview </a> 
