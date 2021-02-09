@@ -4,12 +4,18 @@
 
 ### Connect With Me 👇
 [![](https://img.shields.io/badge/%20-Linkedin-blue?color=blue&labelColor=blue&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stacksagar "@stacksagar linkedin profile") [![](https://img.shields.io/badge/%20-Twitter-blue?color=blue&labelColor=blue&logo=twitter&logoColor=white)](https://www.twitter.com/stacksagar "@stacksagar twitter profile") [![](https://img.shields.io/badge/%20-Facebook-blue?color=blue&labelColor=blue&logo=facebook&logoColor=white)](https://www.facebook.com/stacksagar "@stacksagar facebook profile")
- 
+
+> ### Basic Project 
+> - <a href="https://stacksagar.github.io/smart-todo"> SmartTODO ✔ Live Preview </a>
+> - <a href="https://stacksagar.github.io/smart-poll"> Voting Poll ✔ Live Preview </a>
+> - <a href="https://stacksagar.github.io/tic-tac-toe"> TicTacToe ✔ Live Preview </a>
+> - <a href="https://stacksagar.github.io/eCommerce-shopping-cart"> Shoping Cart eCommerce Functionality ✔ Live Preview </a>
 > ### Few Clone Projects 👇
-> - <a href="https://google.com"> Amazon ✔ Live Preview </a>
-> - <a href="https://google.com"> Netflix ✔ Live Preview </a>
-> - <a href="https://google.com"> Twitter ✔ Live Preview </a>
-> - <a href="https://google.com"> AirBnb ✔ Live Preview </a>
+> - <a href="https://stacksagar.github.io/windows10-calculator-clone"> Windows 10 Calculator Clone ✔ Live Preview </a>
+> - <a href="#"> Amazon Clone ✔ Live Preview </a>
+> - <a href="#"> Netflix Clone ✔ Live Preview </a>
+> - <a href="#"> Twitter Clone ✔ Live Preview </a>
+> - <a href="#"> AirBnb Clone ✔ Live Preview </a> 
  
  <br/>
 
