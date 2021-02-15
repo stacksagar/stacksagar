@@ -1,6 +1,6 @@
 #### <img src="https://cdn3.bbcode0.com/uploads/2021/2/9/cc575c06d6aeab1d8d697cdcf98b89df-full.png" width="15" /> Hi I'm Sagar Roy 👋
 
-##### ` Professionally Full Stack Web Developer & highly skilled in Front-End Development. `  
+### ` Professionally Full Stack Web Developer & highly skilled in Front-End Development. `  
 
 ##### Contact Email 
 <a href="mailto:stacksagar@gmail.com">stacksagar@gmail.com</a>
