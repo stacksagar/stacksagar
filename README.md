@@ -2,7 +2,7 @@
 
 ### ` Professionally Full Stack Web Developer & highly skilled in Front-End Development. `  
 
-##### Contact Email 
+### Contact Email 
 <a href="mailto:stacksagar@gmail.com">stacksagar@gmail.com</a>
 
 ### Connect With Me 👇
