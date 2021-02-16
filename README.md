@@ -42,3 +42,20 @@
 <br />
 
 <a href="https://stacksagar.github.io/works"><img src="https://climaxbpm.com/img/webdesign/portfolio.gif" width="450" /> </a>
+
+<br /> 
+
+### Skills  
+<img src="https://img.shields.io/badge/-HTML-red" alt="HTML" />
+<img src="https://img.shields.io/badge/-CSS-blueviolet" alt="CSS" />
+<img src="https://img.shields.io/badge/-SASS-red" alt="SASS" />
+<img src="https://img.shields.io/badge/-Bootstrap-blue" alt="BootStrap" />
+<img src="https://img.shields.io/badge/-Tailwind CSS-orange" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/-JavaScript-yellow" alt="JavaScript" />
+<img src="https://img.shields.io/badge/-React.js-informational" alt="React.js" />
+<img src="https://img.shields.io/badge/-Next.js-black" alt="Next.js" />
+<img src="https://img.shields.io/badge/-D3.js-yellowgreen" alt="D3.js" />
+<img src="https://img.shields.io/badge/-Node.js-brightgreen" alt="Node.js" /> 
+<img src="https://img.shields.io/badge/-Express.js-green" alt="Express.js" /> 
+<img src="https://img.shields.io/badge/-MongoDB-green" alt="MongoDB" /> 
+<img src="https://img.shields.io/badge/-Firebase-success" alt="Firebase" />
