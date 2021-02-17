@@ -3,11 +3,30 @@
 ### ` Professionally Full Stack Web Developer & highly skilled in Front-End Development. `  
 
 ### Skills  
-<img src="https://img.shields.io/badge/-HTML-red" alt="HTML" /> <img src="https://img.shields.io/badge/-CSS-blueviolet" alt="CSS" /> <img src="https://img.shields.io/badge/-SASS-orange" alt="SASS" /> <img src="https://img.shields.io/badge/-Bootstrap-blue" alt="BootStrap" /> <img src="https://img.shields.io/badge/-Tailwind CSS-success" alt="Tailwind CSS" /> <br />
-<img src="https://img.shields.io/badge/-JavaScript-yellow" alt="JavaScript" /> <img src="https://img.shields.io/badge/-TypeScript-blueviolet" alt="JavaScript" /> <br />
-<img src="https://img.shields.io/badge/-React.js-informational" alt="React.js" /> <img src="https://img.shields.io/badge/-Redux-important" alt="Redux" />
-<img src="https://img.shields.io/badge/-Next.js-black" alt="Next.js" /> <img src="https://img.shields.io/badge/-D3.js-yellowgreen" alt="D3.js" />  <br /> 
-<img src="https://img.shields.io/badge/-Node.js-brightgreen" alt="Node.js" />  <img src="https://img.shields.io/badge/-Express.js-green" alt="Express.js" /> <img src="https://img.shields.io/badge/-MongoDB-green" alt="MongoDB" /> <img src="https://img.shields.io/badge/-Firebase-success" alt="Firebase" />
+
+<img src="https://img.shields.io/badge/-HTML-red" alt="HTML" /> 
+<img src="https://img.shields.io/badge/-CSS-blueviolet" alt="CSS" /> 
+<img src="https://img.shields.io/badge/-SASS-orange" alt="SASS" /> 
+<img src="https://img.shields.io/badge/-Bootstrap-blue" alt="BootStrap" />
+<img src="https://img.shields.io/badge/-Tailwind CSS-success" alt="Tailwind CSS" />
+
+<img src="https://img.shields.io/badge/-JavaScript-yellow" alt="JavaScript" /> 
+<img src="https://img.shields.io/badge/-TypeScript-blueviolet" alt="TypeScript" />
+<img src="https://img.shields.io/badge/-React.js-informational" alt="React.js" /> 
+<img src="https://img.shields.io/badge/-Node.js-brightgreen" alt="Node.js" /> 
+<img src="https://img.shields.io/badge/-Data Visualization_(D3.js)-yellowgreen" alt="Data Visualization D3.js" />
+<img src="https://img.shields.io/badge/-Express.js-green" alt="Express.js" /> 
+<img src="https://img.shields.io/badge/-Next.js-black" alt="Next.js" />
+
+<img src="https://img.shields.io/badge/-Redux-important" alt="Redux" />
+<img src="https://img.shields.io/badge/-MongoDB-green" alt="MongoDB" /> 
+<img src="https://img.shields.io/badge/-Firebase-success" alt="Firebase" /><br />
+<img src="https://img.shields.io/badge/-API-informational" alt="API" />
+<img src="https://img.shields.io/badge/-Webpack-blueviolet" alt="Webpack" /> 
+<img src="https://img.shields.io/badge/-Babel-yellowgreen" alt="Babel" />
+<img src="https://img.shields.io/badge/-GatsbyJS-blue" alt="GatsbyJS" />
+<img src="https://img.shields.io/badge/-GraphQL+Apollo-critical" alt="GraphQL" /> 
+<img src="https://img.shields.io/badge/-Stripe-blue" alt="Stripe" />
 
 ### Connect With Me 👇
 [![](https://img.shields.io/badge/%20-Linkedin-blue?color=blue&labelColor=blue&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stacksagar "@stacksagar linkedin profile") [![](https://img.shields.io/badge/%20-Twitter-blue?color=blue&labelColor=blue&logo=twitter&logoColor=white)](https://www.twitter.com/stacksagar "@stacksagar twitter profile") [![](https://img.shields.io/badge/%20-Facebook-blue?color=blue&labelColor=blue&logo=facebook&logoColor=white)](https://www.facebook.com/stacksagar "@stacksagar facebook profile")
