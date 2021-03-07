@@ -18,12 +18,14 @@
 > - <a href="https://stacksagar.github.io/smart-poll"> Voting Poll ✔ Live Preview </a>
 > - <a href="https://stacksagar.github.io/tic-tac-toe"> TicTacToe ✔ Live Preview </a>
 > - <a href="https://stacksagar.github.io/eCommerce-shopping-cart"> Shoping Cart eCommerce Functionality ✔ Live Preview </a>
+> - <a href="https://stacksagar.github.io/typing-test"> Typing Test Game ✔ Live Preview </a>
 > ### Few Clone Projects 👇
 > - <a href="https://stacksagar.github.io/windows10-calculator-clone"> Windows 10 Calculator **Clone** ✔ Live Preview </a>
-> - <a href="https://sagar-clone-1.web.app"> Amazon **Clone** ✔ Live Preview </a>
-> - <a href="#"> Netflix **Clone** ✔ Live Preview </a>
-> - <a href="#"> Twitter **Clone** ✔ Live Preview </a>
-> - <a href="#"> AirBnb **Clone** ✔ Live Preview </a> 
+> - <a href="https://stacksagar.github.io/amazon-clone"> Amazon **Clone** ✔ Live Preview </a>
+> - <a href="https://stacksagar.github.io/netflix-clone"> Netflix **Clone** ✔ Live Preview </a>
+> - <a href="https://stacksagar.github.io/twitter-ui"> Twitter **Clone** ✔ Live Preview </a>
+> - <a href="https://stacksagar.github.io/discord-clone"> Discord **Clone** ✔ Live Preview </a> 
+> - <a href="https://stacksagar.github.io/disney-plus-ui"> Disney **Clone** ✔ Live Preview </a> 
  
  <br/>
 
