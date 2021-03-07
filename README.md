@@ -21,11 +21,11 @@
 > - <a href="https://stacksagar.github.io/typing-test"> Typing Test Game ✔ Live Preview </a>
 > ### Few Clone Projects 👇
 > - <a href="https://stacksagar.github.io/windows10-calculator-clone"> Windows 10 Calculator **Clone** ✔ Live Preview </a>
-> - <a href="https://stacksagar.github.io/amazon-clone"> Amazon **Clone** ✔ Live Preview </a>
-> - <a href="https://stacksagar.github.io/netflix-clone"> Netflix **Clone** ✔ Live Preview </a>
-> - <a href="https://stacksagar.github.io/twitter-ui"> Twitter **Clone** ✔ Live Preview </a>
-> - <a href="https://stacksagar.github.io/discord-clone"> Discord **Clone** ✔ Live Preview </a> 
-> - <a href="https://stacksagar.github.io/disney-plus-ui"> Disney **Clone** ✔ Live Preview </a> 
+> - <a href="https://stacksagar.github.io/amazon-clone"> Amazon **Clone** ✔ Live Preview ( 4 page ) </a>
+> - <a href="https://stacksagar.github.io/netflix-clone"> Netflix **Clone** ✔ Live Preview ( 3 page ) </a>
+> - <a href="https://stacksagar.github.io/twitter-ui"> Twitter **UI** ✔ Live Preview </a>
+> - <a href="https://stacksagar.github.io/discord-clone"> Discord **UI** ✔ Live Preview </a> 
+> - <a href="https://stacksagar.github.io/disney-plus-ui"> Disney **UI** ✔ Live Preview </a> 
  
  <br/>
 
