@@ -1,4 +1,4 @@
-#### <img src="https://cdn3.bbcode0.com/uploads/2021/2/9/cc575c06d6aeab1d8d697cdcf98b89df-full.png" width="15" /> Hi I'm Sagar Roy 👋
+#### <img src="https://i.ibb.co/tB8bvL8/mr-sagar.jpg" width="30" /> Hi I'm Sagar Roy 👋
 
 ### ` MERN Stack Web Developer & highly skilled in Frontend-(CSS3,React,tools). `  
 
