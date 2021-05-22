@@ -1,6 +1,6 @@
 #### <img src="https://cdn3.bbcode0.com/uploads/2021/2/9/cc575c06d6aeab1d8d697cdcf98b89df-full.png" width="15" /> Hi I'm Sagar Roy 👋
 
-### ` MERM Stack Web Developer & highly skilled in Frontend-(CSS3,React,tools). `  
+### ` MERN Stack Web Developer & highly skilled in Frontend-(CSS3,React,tools). `  
 
 ### Skills  
 
