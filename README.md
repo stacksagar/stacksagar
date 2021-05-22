@@ -1,4 +1,4 @@
-# <img src="https://i.ibb.co/tB8bvL8/mr-sagar.jpg" width="35" borderRadius="50%" /> Hi I'm Sagar Roy 👋
+# <img src="https://i.ibb.co/tB8bvL8/mr-sagar.jpg" width="30" borderRadius="50%" /> Hi I'm Sagar Roy 👋
 
 ### ` MERN Stack Web Developer & highly skilled in Frontend-(CSS3,React,tools). `  
 
