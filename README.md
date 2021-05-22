@@ -1,8 +1,8 @@
-#### <img src="https://i.ibb.co/ncsrQRx/mr-sagar.png" width="20" style="border-redius:50%" /> Hi I'm Sagar Roy 👋
+#### <img src="https://i.ibb.co/tB8bvL8/mr-sagar.jpg" width="15" style="border-radius:50%" /> Hi I'm Sagar Roy 👋
 
 ### ` MERN Stack Web Developer & highly skilled in Frontend-(CSS3,React,tools). `  
 
-### Skills  
+## Skills  
 
 
 <img src="https://img.shields.io/badge/-HTML-red" alt="HTML" /> <img src="https://img.shields.io/badge/-CSS-blueviolet" alt="CSS" /> <img src="https://img.shields.io/badge/-SASS-orange" alt="SASS" /> <img src="https://img.shields.io/badge/-Bootstrap-blue" alt="BootStrap" /> <img src="https://img.shields.io/badge/-Tailwind CSS-success" alt="Tailwind CSS" /> <br /> <img src="https://img.shields.io/badge/-JavaScript-yellow" alt="JavaScript" /> <img src="https://img.shields.io/badge/-TypeScript-blueviolet" alt="TypeScript" /> <img src="https://img.shields.io/badge/-React.js-informational" alt="React.js" /> <img src="https://img.shields.io/badge/-Node.js-brightgreen" alt="Node.js" /> <img src="https://img.shields.io/badge/-Data Visualization_(D3.js)-yellowgreen" alt="Data Visualization D3.js" /> <img src="https://img.shields.io/badge/-Express.js-green" alt="Express.js" /> <br /> <img src="https://img.shields.io/badge/-Next.js-orange" alt="Next.js" /> <img src="https://img.shields.io/badge/-Redux-blue" alt="Redux" /> <img src="https://img.shields.io/badge/-MongoDB-green" alt="MongoDB" /> <img src="https://img.shields.io/badge/-Firebase-success" alt="Firebase" /> <img src="https://img.shields.io/badge/-API-informational" alt="API" /> <img src="https://img.shields.io/badge/-JSON-green" alt="Json" />  
