@@ -1,6 +1,6 @@
 # <img src="https://i.ibb.co/tB8bvL8/mr-sagar.jpg" width="25" /> Hi I'm Sagar Roy 👋
 
-### ` MERN Stack Web Developer & highly skilled in Frontend-(CSS3, CSS Frameworks, React & Other tools). `  
+### `Frontend Engineer`  
 
 ## Skills  
 
