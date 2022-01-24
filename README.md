@@ -4,14 +4,13 @@
 
 ## Skills
 
-| Languages                                                                          |                                            Library & Frameworks                                             |                                                                                              Database |      Technical Skills & Others |
-| ---------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------: | ----------------------------------------------------------------------------------------------------: | -----------------------------: |
-| <img src="https://img.shields.io/badge/-HTML-red" alt="HTML" />                    |              <img src="https://img.shields.io/badge/-React.js-informational" alt="React.js" />              |                                                                                               `NoSQL` |          `Progressive Web App` |
-| <img src="https://img.shields.io/badge/-CSS-blueviolet" alt="CSS" />               |      <img src="https://img.shields.io/badge/-Redux-blue" alt="Redux" /> <br /> `Redux-saga` `Persist`       |                               <img src="https://img.shields.io/badge/-MongoDB-informational" alt="MongoDB" /> |      `Perfomance Optimization` |
-| <img src="https://img.shields.io/badge/-JavaScript-yellow" alt="JavaScript" />     | <img src="https://img.shields.io/badge/-Next.js-blueviolet" alt="Next.js" /> <br /> `SSR` `SSG` `SEO Optimized` | <img src="https://img.shields.io/badge/-Firebase-informational" alt="Firebase" /> <br /> `Auth` `Firestore` |                    ` REST API` |
-| <img src="https://img.shields.io/badge/-TypeScript-blueviolet" alt="TypeScript" /> |                <img src="https://img.shields.io/badge/-Node.js-informational" alt="Node.js" />                |                                                                                                       |        ` Clean Code` `Testing` |
-|                                                                                    |                <img src="https://img.shields.io/badge/-Express.js-informational" alt="Express.js" />                |                                                                                                       |              ` Git` & `Github` |
-
+| Languages                                                                          |                                              Library & Frameworks                                               |                                                                                                    Database | Technical Skills & Others |
+| ---------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------: | ----------------------------------------------------------------------------------------------------------: | ------------------------: |
+| <img src="https://img.shields.io/badge/-HTML-red" alt="HTML" />                    |                <img src="https://img.shields.io/badge/-React.js-informational" alt="React.js" />                |                                                                                                     `NoSQL` |     `Progressive Web App` |
+| <img src="https://img.shields.io/badge/-CSS-blueviolet" alt="CSS" />               |        <img src="https://img.shields.io/badge/-Redux-blue" alt="Redux" /> <br /> `Redux-saga` `Persist`         |                             <img src="https://img.shields.io/badge/-MongoDB-informational" alt="MongoDB" /> | `Perfomance Optimization` |
+| <img src="https://img.shields.io/badge/-JavaScript-yellow" alt="JavaScript" />     | <img src="https://img.shields.io/badge/-Next.js-blueviolet" alt="Next.js" /> <br /> `SSR` `SSG` `SEO Optimized` | <img src="https://img.shields.io/badge/-Firebase-informational" alt="Firebase" /> <br /> `Auth` `Firestore` |               ` REST API` |
+| <img src="https://img.shields.io/badge/-TypeScript-blueviolet" alt="TypeScript" /> |                 <img src="https://img.shields.io/badge/-Node.js+Express.js-informational" alt="Node.js" />                 |                                                                                                             |   ` Clean Code` `Testing` |
+|                                                                                    |                                                                                                                 |                                                                                                             |         ` Git` & `Github` |
 
 <!--  <img src="https://img.shields.io/badge/-Data Visualization_(D3.js)-informational" alt="Data Visualization D3.js" />  -->
 
@@ -22,31 +21,30 @@
 #### Contact Email 👉 <a href="mailto:hey.sagar@yahoo.com">hey.sagar@yahoo.com</a>
 
 <br />
- 
 
 ## Few Projects
+
 > ### Favorite
 >
 > - <a href="https://stackportal.vercel.app"> Stack Portal ✔ Live Preview </a>
-> - <a href="https://stacksagar.github.io/stackshop"> StackShop eCommerce ✔ Live Preview </a> 
-> - <a href="https://stacksagar.github.io/stacksocial"> Social Media ✔ Live Preview </a> 
+> - <a href="https://stacksagar.github.io/stackshop"> StackShop eCommerce ✔ Live Preview </a>
+> - <a href="https://stacksagar.github.io/stacksocial"> Social Media ✔ Live Preview </a>
 >
 > ### Basic Project
 >
 > - <a href="https://stacksagar.github.io/aio-clothes-shop"> Clothes Shop ✔ Live Preview </a>
 > - <a href="https://stacksagar.github.io/smart-todo"> SmartTODO ✔ Live Preview </a>
 > - <a href="https://stacksagar.github.io/smart-poll"> Voting Poll ✔ Live Preview </a>
-> - <a href="https://stacksagar.github.io/tic-tac-toe"> TicTacToe ✔ Live Preview </a> 
+> - <a href="https://stacksagar.github.io/tic-tac-toe"> TicTacToe ✔ Live Preview </a>
 > - <a href="https://stacksagar.github.io/typing-test"> Typing Test Game ✔ Live Preview </a>
 >
 > ### Few Clone Projects 👇
 >
 > - <a href="https://stacksagar.github.io/windows10-calculator-clone"> Windows 10 Calculator **Clone** ✔ Live Preview </a>
-> - <a href="https://stacksagar.github.io/amazon-clone"> Amazon **Clone** ✔ Live Preview ( 4 page ) </a> 
+> - <a href="https://stacksagar.github.io/amazon-clone"> Amazon **Clone** ✔ Live Preview ( 4 page ) </a>
 > - <a href="https://stacksagar.github.io/twitter-ui"> Twitter **UI** ✔ Live Preview </a>
 > - <a href="https://stacksagar.github.io/discord-clone"> Discord **UI** ✔ Live Preview </a>
-> - <a href="https://stacksagar.github.io/disney-plus-ui"> Disney **UI** ✔ Live Preview </a>
-`  `
+> - <a href="https://stacksagar.github.io/disney-plus-ui"> Disney **UI** ✔ Live Preview </a> > ` `
 
  <br/>
 
