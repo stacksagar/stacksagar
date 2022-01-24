@@ -15,10 +15,7 @@
 |                                                                                    |             <img src="https://img.shields.io/badge/-Tailwind CSS-success" alt="Tailwind CSS" />             |                                                                                                       | `Perfect Responsive Implement` |
 |                                                                                    |                 <img src="https://img.shields.io/badge/-Bootstrap-blue" alt="BootStrap" />                  |                                                                                                       |                                |
 
-<br />
- <img src="https://img.shields.io/badge/-Data Visualization_(D3.js)-yellowgreen" alt="Data Visualization D3.js" />
-     <img src="https://img.shields.io/badge/-API-informational" alt="API" />
-     <img src="https://img.shields.io/badge/-JSON-green" alt="Json" />
+ <img src="https://img.shields.io/badge/-Data Visualization_(D3.js)-informational" alt="Data Visualization D3.js" /> 
 
 ### Connect With Me 👇
 
