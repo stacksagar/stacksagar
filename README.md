@@ -1,4 +1,4 @@
-# <img src="https://i.ibb.co/xgX2n13/IMG-20220123-171927-removebg-preview.png" width="75" /> Hi I'm Sagar Roy 👋
+## Hi I'm Sagar Roy 👋
 
 ### `Frontend Engineer`
 
