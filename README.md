@@ -7,15 +7,15 @@
 | Languages                                                                          |                                            Library & Frameworks                                             |                                                                                              Database |      Technical Skills & Others |
 | ---------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------: | ----------------------------------------------------------------------------------------------------: | -----------------------------: |
 | <img src="https://img.shields.io/badge/-HTML-red" alt="HTML" />                    |              <img src="https://img.shields.io/badge/-React.js-informational" alt="React.js" />              |                                                                                               `NoSQL` |          `Progressive Web App` |
-| <img src="https://img.shields.io/badge/-CSS-blueviolet" alt="CSS" />               |      <img src="https://img.shields.io/badge/-Redux-blue" alt="Redux" /> <br /> `Redux-saga` `Persist`       |                               <img src="https://img.shields.io/badge/-MongoDB-green" alt="MongoDB" /> |      `Perfomance Optimization` |
-| <img src="https://img.shields.io/badge/-JavaScript-yellow" alt="JavaScript" />     | <img src="https://img.shields.io/badge/-Next.js-orange" alt="Next.js" /> <br /> `SSR` `SSG` `SEO Optimized` | <img src="https://img.shields.io/badge/-Firebase-success" alt="Firebase" /> <br /> `Auth` `Firestore` |                    ` REST API` |
-| <img src="https://img.shields.io/badge/-TypeScript-blueviolet" alt="TypeScript" /> |                <img src="https://img.shields.io/badge/-Node.js-brightgreen" alt="Node.js" />                |                                                                                                       |        ` Clean Code` `Testing` |
-|                                                                                    |                <img src="https://img.shields.io/badge/-Express.js-green" alt="Express.js" />                |                                                                                                       |              ` Git` & `Github` |
+| <img src="https://img.shields.io/badge/-CSS-blueviolet" alt="CSS" />               |      <img src="https://img.shields.io/badge/-Redux-blue" alt="Redux" /> <br /> `Redux-saga` `Persist`       |                               <img src="https://img.shields.io/badge/-MongoDB-informational" alt="MongoDB" /> |      `Perfomance Optimization` |
+| <img src="https://img.shields.io/badge/-JavaScript-yellow" alt="JavaScript" />     | <img src="https://img.shields.io/badge/-Next.js-orange" alt="Next.js" /> <br /> `SSR` `SSG` `SEO Optimized` | <img src="https://img.shields.io/badge/-Firebase-informational" alt="Firebase" /> <br /> `Auth` `Firestore` |                    ` REST API` |
+| <img src="https://img.shields.io/badge/-TypeScript-blueviolet" alt="TypeScript" /> |                <img src="https://img.shields.io/badge/-Node.js-informational" alt="Node.js" />                |                                                                                                       |        ` Clean Code` `Testing` |
+|                                                                                    |                <img src="https://img.shields.io/badge/-Express.js-informational" alt="Express.js" />                |                                                                                                       |              ` Git` & `Github` |
 |                                                                                    |                     <img src="https://img.shields.io/badge/-SASS-orange" alt="SASS" />                      |                                                                                                       |  `Specialist In Google Search` |
-|                                                                                    |             <img src="https://img.shields.io/badge/-Tailwind CSS-success" alt="Tailwind CSS" />             |                                                                                                       | `Perfect Responsive Implement` |
+|                                                                                    |             <img src="https://img.shields.io/badge/-Tailwind CSS-informational" alt="Tailwind CSS" />             |                                                                                                       | `Perfect Responsive Implement` |
 |                                                                                    |                 <img src="https://img.shields.io/badge/-Bootstrap-blue" alt="BootStrap" />                  |                                                                                                       |                                |
 
- <img src="https://img.shields.io/badge/-Data Visualization_(D3.js)-informational" alt="Data Visualization D3.js" /> 
+<!--  <img src="https://img.shields.io/badge/-Data Visualization_(D3.js)-informational" alt="Data Visualization D3.js" />  -->
 
 ### Connect With Me 👇
 
@@ -38,8 +38,7 @@
 > - <a href="https://stacksagar.github.io/aio-clothes-shop"> Clothes Shop ✔ Live Preview </a>
 > - <a href="https://stacksagar.github.io/smart-todo"> SmartTODO ✔ Live Preview </a>
 > - <a href="https://stacksagar.github.io/smart-poll"> Voting Poll ✔ Live Preview </a>
-> - <a href="https://stacksagar.github.io/tic-tac-toe"> TicTacToe ✔ Live Preview </a>
-> - <a href="https://stacksagar.github.io/eCommerce-shopping-cart"> Shoping Cart eCommerce Functionality ✔ Live Preview </a>
+> - <a href="https://stacksagar.github.io/tic-tac-toe"> TicTacToe ✔ Live Preview </a> 
 > - <a href="https://stacksagar.github.io/typing-test"> Typing Test Game ✔ Live Preview </a>
 >
 > ### Few Clone Projects 👇
