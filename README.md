@@ -11,10 +11,7 @@
 | <img src="https://img.shields.io/badge/-JavaScript-yellow" alt="JavaScript" />     | <img src="https://img.shields.io/badge/-Next.js-blueviolet" alt="Next.js" /> <br /> `SSR` `SSG` `SEO Optimized` | <img src="https://img.shields.io/badge/-Firebase-informational" alt="Firebase" /> <br /> `Auth` `Firestore` |                    ` REST API` |
 | <img src="https://img.shields.io/badge/-TypeScript-blueviolet" alt="TypeScript" /> |                <img src="https://img.shields.io/badge/-Node.js-informational" alt="Node.js" />                |                                                                                                       |        ` Clean Code` `Testing` |
 |                                                                                    |                <img src="https://img.shields.io/badge/-Express.js-informational" alt="Express.js" />                |                                                                                                       |              ` Git` & `Github` |
-|                                                                                    |                                        |
 
-|                                                                                    |             <img src="https://img.shields.io/badge/-Tailwind CSS-blueviolet" alt="Tailwind CSS" />             |                                                                                                       | `Perfect Responsive Implement` |
-|                                                                                    |                 <img src="https://img.shields.io/badge/-Bootstrap-blue" alt="BootStrap" />                  |                                                                                                       |                                |
 
 <!--  <img src="https://img.shields.io/badge/-Data Visualization_(D3.js)-informational" alt="Data Visualization D3.js" />  -->
 
