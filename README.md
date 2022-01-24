@@ -1,4 +1,4 @@
-# <img src="https://i.ibb.co/tB8bvL8/mr-sagar.jpg" width="25" /> Hi I'm Sagar Roy 👋
+# <img src="https://i.ibb.co/xgX2n13/IMG-20220123-171927-removebg-preview.png" width="25" /> Hi I'm Sagar Roy 👋
 
 ### `Frontend Engineer`
 
@@ -9,8 +9,8 @@
 | <img src="https://img.shields.io/badge/-HTML-red" alt="HTML" />                    |                <img src="https://img.shields.io/badge/-React.js-informational" alt="React.js" />                |                                                                                                     `NoSQL` |     `Progressive Web App` |
 | <img src="https://img.shields.io/badge/-CSS-blueviolet" alt="CSS" />               |        <img src="https://img.shields.io/badge/-Redux-blue" alt="Redux" /> <br /> `Redux-saga` `Persist`         |                             <img src="https://img.shields.io/badge/-MongoDB-informational" alt="MongoDB" /> | `Perfomance Optimization` |
 | <img src="https://img.shields.io/badge/-JavaScript-yellow" alt="JavaScript" />     | <img src="https://img.shields.io/badge/-Next.js-blueviolet" alt="Next.js" /> <br /> `SSR` `SSG` `SEO Optimized` | <img src="https://img.shields.io/badge/-Firebase-informational" alt="Firebase" /> <br /> `Auth` `Firestore` |               ` REST API` |
-| <img src="https://img.shields.io/badge/-TypeScript-blueviolet" alt="TypeScript" /> |                 <img src="https://img.shields.io/badge/-Node.js+Express.js-informational" alt="Node.js" />                 |                                                                                                             |   ` Clean Code` `Testing` |
-|                                                                                    |                                                                                                                 |                                                                                                             |         ` Git` & `Github` |
+| <img src="https://img.shields.io/badge/-TypeScript-blueviolet" alt="TypeScript" /> |             <img src="https://img.shields.io/badge/-Node.js/Express.js-blueviolet" alt="Node.js" />             |                                                                                                             |   ` Clean Code` `Testing` |
+|                                                                                    |           <img src="https://img.shields.io/badge/-TailwindCSS/Bootstrap-blueviolet" alt="Node.js" />            |                                                                                                             |         ` Git` & `Github` |
 
 <!--  <img src="https://img.shields.io/badge/-Data Visualization_(D3.js)-informational" alt="Data Visualization D3.js" />  -->
 
