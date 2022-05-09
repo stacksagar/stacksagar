@@ -4,6 +4,11 @@
 
 ## Skills
 
+| Languages                         |                          Library & Frameworks                           |                                 Others |
+| :-------------------------------- | :---------------------------------------------------------------------: | -------------------------------------: |
+| HTML, CSS, JavaScript, TypeScript | Boostrap, TailwindCSS, React.js+Redux, Next.js, Node.js+Express+MongoDB | Clean Code, Responsive, APIs, Thirdweb |
+
+
 | Languages                                                                          |                                              Library & Frameworks                                               |                                                                                                    Database |     Technical Skills & Others |
 | ---------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------: | ----------------------------------------------------------------------------------------------------------: | ----------------------------: |
 | <img src="https://img.shields.io/badge/-HTML-red" alt="HTML" />                    |   <img src="https://img.shields.io/badge/-React.js-blue" alt="React.js" /> <br /> `Redux+Redux-saga+Persist`    |                                                                                                     `NoSQL` |       ` Clean Code` `Testing` |
