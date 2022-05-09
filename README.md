@@ -3,6 +3,7 @@
 ### `Frontend Engineer`
 
 ## Skills
+
 | Languages                         |                          Library & Frameworks                           |                                           Others |
 | :-------------------------------- | :---------------------------------------------------------------------: | -----------------------------------------------: |
 | HTML, CSS, JavaScript, TypeScript | Boostrap, TailwindCSS, React.js+Redux, Next.js, Node.js+Express+MongoDB | Clean Code, Responsive Design, Thirdweb, Moralis |
