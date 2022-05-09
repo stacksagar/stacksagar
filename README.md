@@ -4,12 +4,16 @@
 
 ## Skills
 
-| Languages                                                                          |                                              Library & Frameworks                                               |                                                                                                      Others |
+| Languages                                                                          |                                              Library & Frameworks                                               |                                                                                                    Database |     Technical Skills & Others |
 | ---------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------: | ----------------------------------------------------------------------------------------------------------: | ----------------------------: |
 | <img src="https://img.shields.io/badge/-HTML-red" alt="HTML" />                    |   <img src="https://img.shields.io/badge/-React.js-blue" alt="React.js" /> <br /> `Redux+Redux-saga+Persist`    |                                                                                                     `NoSQL` |       ` Clean Code` `Testing` |
 | <img src="https://img.shields.io/badge/-CSS-blueviolet" alt="CSS" />               |        <img src="https://img.shields.io/badge/-TailwindCSS&Bootstrap-blueviolet" alt="CSS Frameworks" />        |                             <img src="https://img.shields.io/badge/-MongoDB-informational" alt="MongoDB" /> |     `Perfomance Optimization` |
 | <img src="https://img.shields.io/badge/-JavaScript-yellow" alt="JavaScript" />     | <img src="https://img.shields.io/badge/-Next.js-blueviolet" alt="Next.js" /> <br /> `SSR` `SSG` `SEO Optimized` | <img src="https://img.shields.io/badge/-Firebase-informational" alt="Firebase" /> <br /> `Auth` `Firestore` | ` Git` & `Github` ` REST API` |
 | <img src="https://img.shields.io/badge/-TypeScript-blueviolet" alt="TypeScript" /> |        <img src="https://img.shields.io/badge/-Node.js-blueviolet" alt="Node.js" /> <br /> `Express.js`         |                                                                                                             |                               |
+
+<!--  <img src="https://img.shields.io/badge/-Data Visualization_(D3.js)-informational" alt="Data Visualization D3.js" />  -->
+
+### Connect With Me 👇
 
 [![](https://img.shields.io/badge/%20-Linkedin-blue?color=blue&labelColor=blue&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stacksagar "@stacksagar linkedin profile") [![](https://img.shields.io/badge/%20-Twitter-blue?color=blue&labelColor=blue&logo=twitter&logoColor=white)](https://www.twitter.com/stacksagar "@stacksagar twitter profile") [![](https://img.shields.io/badge/%20-Facebook-blue?color=blue&labelColor=blue&logo=facebook&logoColor=white)](https://www.facebook.com/stacksagar "@stacksagar facebook profile")
 
