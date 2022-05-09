@@ -3,20 +3,10 @@
 ### `Frontend Engineer`
 
 ## Skills
+| Languages                         |                          Library & Frameworks                           |                                           Others |
+| :-------------------------------- | :---------------------------------------------------------------------: | -----------------------------------------------: |
+| HTML, CSS, JavaScript, TypeScript | Boostrap, TailwindCSS, React.js+Redux, Next.js, Node.js+Express+MongoDB | Clean Code, Responsive Design, Thirdweb, Moralis |
 
-| Languages                         |                          Library & Frameworks                           |                                 Others |
-| :-------------------------------- | :---------------------------------------------------------------------: | -------------------------------------: |
-| HTML, CSS, JavaScript, TypeScript | Boostrap, TailwindCSS, React.js+Redux, Next.js, Node.js+Express+MongoDB | Clean Code, Responsive, APIs, Thirdweb |
-
-
-| Languages                                                                          |                                              Library & Frameworks                                               |                                                                                                    Database |     Technical Skills & Others |
-| ---------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------: | ----------------------------------------------------------------------------------------------------------: | ----------------------------: |
-| <img src="https://img.shields.io/badge/-HTML-red" alt="HTML" />                    |   <img src="https://img.shields.io/badge/-React.js-blue" alt="React.js" /> <br /> `Redux+Redux-saga+Persist`    |                                                                                                     `NoSQL` |       ` Clean Code` `Testing` |
-| <img src="https://img.shields.io/badge/-CSS-blueviolet" alt="CSS" />               |        <img src="https://img.shields.io/badge/-TailwindCSS&Bootstrap-blueviolet" alt="CSS Frameworks" />        |                             <img src="https://img.shields.io/badge/-MongoDB-informational" alt="MongoDB" /> |     `Perfomance Optimization` |
-| <img src="https://img.shields.io/badge/-JavaScript-yellow" alt="JavaScript" />     | <img src="https://img.shields.io/badge/-Next.js-blueviolet" alt="Next.js" /> <br /> `SSR` `SSG` `SEO Optimized` | <img src="https://img.shields.io/badge/-Firebase-informational" alt="Firebase" /> <br /> `Auth` `Firestore` | ` Git` & `Github` ` REST API` |
-| <img src="https://img.shields.io/badge/-TypeScript-blueviolet" alt="TypeScript" /> |        <img src="https://img.shields.io/badge/-Node.js-blueviolet" alt="Node.js" /> <br /> `Express.js`         |                                                                                                             |                               |
-
-<!--  <img src="https://img.shields.io/badge/-Data Visualization_(D3.js)-informational" alt="Data Visualization D3.js" />  -->
 
 ### Connect With Me 👇
 
