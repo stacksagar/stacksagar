@@ -50,6 +50,12 @@
 <br />
 <br />
 
+### Profile Visitors:
+![Visitor Count](https://profile-counter.glitch.me/stacksagar/count.svg)
+
+<br />
+<br />
+
 <img width="550" alt="stacksagar's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=stacksagar&show_icons=true"/>
 
 ### <img src="https://png.pngtree.com/png-clipart/20190614/original/pngtree-certificate-icon-png-image_3715104.jpg" width="20" /> Web Certificates
