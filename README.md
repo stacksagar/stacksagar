@@ -18,12 +18,12 @@
 <br />
 
 ## Few Projects
-
+<!-- 
 > ### Favorite
 >
 > - <a href="https://stackportal.vercel.app"> Stack Portal ✔ Live Preview </a>
 > - <a href="https://stacksagar.github.io/stackshop"> StackShop eCommerce ✔ Live Preview </a>
-> - <a href="https://stacksagar.github.io/stacksocial"> Social Media ✔ Live Preview </a>
+> - <a href="https://stacksagar.github.io/stacksocial"> Social Media ✔ Live Preview </a> -->
 >
 > ### Basic Project
 >
