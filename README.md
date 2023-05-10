@@ -26,8 +26,7 @@
 > - <a href="https://stacksagar.github.io/stacksocial"> Social Media ✔ Live Preview </a> -->
 >
 > ### Basic Project
->
-> - <a href="https://stacksagar.github.io/aio-clothes-shop"> Clothes Shop ✔ Live Preview </a>
+
 > - <a href="https://stacksagar.github.io/smart-todo"> SmartTODO ✔ Live Preview </a>
 > - <a href="https://stacksagar.github.io/smart-poll"> Voting Poll ✔ Live Preview </a>
 > - <a href="https://stacksagar.github.io/tic-tac-toe"> TicTacToe ✔ Live Preview </a>
@@ -38,8 +37,7 @@
 > - <a href="https://stacksagar.github.io/windows10-calculator-clone"> Windows 10 Calculator **Clone** ✔ Live Preview </a>
 > - <a href="https://stacksagar.github.io/amazon-clone"> Amazon **Clone** ✔ Live Preview ( 4 page ) </a>
 > - <a href="https://stacksagar.github.io/twitter-ui"> Twitter **UI** ✔ Live Preview </a>
-> - <a href="https://stacksagar.github.io/discord-clone"> Discord **UI** ✔ Live Preview </a>
-> - <a href="https://stacksagar.github.io/disney-plus-ui"> Disney **UI** ✔ Live Preview </a> > ` `
+> - <a href="https://stacksagar.github.io/discord-clone"> Discord **UI** ✔ Live Preview </a>` `
 
  <br/>
 
