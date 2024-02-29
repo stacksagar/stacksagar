@@ -1,6 +1,6 @@
 ## Hi I'm Sagar Roy 👋
 
-### `Frontend Engineer`
+### `Frontend Engineer / Junior Blockchain Developer`
 
 ## Skills
 
