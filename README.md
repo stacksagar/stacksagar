@@ -6,7 +6,7 @@
 
 | Languages                         |                          Library & Frameworks                           |                                           Others |
 | :-------------------------------- | :---------------------------------------------------------------------: | -----------------------------------------------: |
-| HTML, CSS, JavaScript, TypeScript | Boostrap, TailwindCSS, React.js+Redux, Next.js, Node.js+Express+MongoDB | Clean Code, Responsive Design, Thirdweb, Moralis |
+| HTML, CSS, JavaScript, TypeScript, Solidity | Boostrap, TailwindCSS, React.js+Redux, Next.js, Node.js+Express+MongoDB | Clean Code, Responsive Design, Thirdweb, Moralis |
 
 
 ### Connect With Me 👇
