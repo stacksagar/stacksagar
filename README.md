@@ -17,30 +17,7 @@
 #### Telegram 👉 <a href="https://t.me/stacksagar">@stacksagar</a>
 
 <br />
-
-## Few Projects
-<!-- 
-> ### Favorite
->
-> - <a href="https://stackportal.vercel.app"> Stack Portal ✔ Live Preview </a>
-> - <a href="https://stacksagar.github.io/stackshop"> StackShop eCommerce ✔ Live Preview </a>
-> - <a href="https://stacksagar.github.io/stacksocial"> Social Media ✔ Live Preview </a> -->
->
-> ### Basic Project
-
-> - <a href="https://stacksagar.github.io/smart-todo"> SmartTODO ✔ Live Preview </a>
-> - <a href="https://stacksagar.github.io/smart-poll"> Voting Poll ✔ Live Preview </a>
-> - <a href="https://stacksagar.github.io/tic-tac-toe"> TicTacToe ✔ Live Preview </a>
-> - <a href="https://stacksagar.github.io/typing-test"> Typing Test Game ✔ Live Preview </a>
->
-> ### Few Clone Projects 👇
->
-> - <a href="https://stacksagar.github.io/windows10-calculator-clone"> Windows 10 Calculator **Clone** ✔ Live Preview </a>
-> - <a href="https://stacksagar.github.io/amazon-clone"> Amazon **Clone** ✔ Live Preview ( 4 page ) </a>
-> - <a href="https://stacksagar.github.io/twitter-ui"> Twitter **UI** ✔ Live Preview </a>
-> - <a href="https://stacksagar.github.io/discord-clone"> Discord **UI** ✔ Live Preview </a>` `
-
- <br/>
+ 
 
 <a href="https://github.com/stacksagar">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stacksagar&theme=light&hide_langs_below=1" />
