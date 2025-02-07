@@ -11,7 +11,7 @@
 
 ### Connect With Me 👇
 
-[![](https://img.shields.io/badge/%20-Linkedin-blue?color=blue&labelColor=blue&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stacksagar "@stacksagar linkedin profile") [![](https://img.shields.io/badge/%20-Twitter-blue?color=blue&labelColor=blue&logo=twitter&logoColor=white)]
+[![](https://img.shields.io/badge/%20-Linkedin-blue?color=blue&labelColor=blue&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stacksagar "@stacksagar linkedin profile") 
 
 #### Contact Email 👉 <a href="mailto:stacksagar@gmail.com">stacksagar@gmail.com</a>
 #### Telegram 👉 <a href="https://t.me/stacksagar">@stacksagar</a>
